@@ -37,6 +37,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0003-longest-substring-without-repeating-characters](https://github.com/chayan2006/DSA_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/chayan2006/DSA_Journey/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/chayan2006/DSA_Journey/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/chayan2006/DSA_Journey/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/chayan2006/DSA_Journey/tree/master/0678-valid-parenthesis-string) |
