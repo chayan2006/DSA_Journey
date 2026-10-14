@@ -8,6 +8,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | ------- |
 | [0007-reverse-integer](https://github.com/chayan2006/DSA_Journey/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/chayan2006/DSA_Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/chayan2006/DSA_Journey/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/chayan2006/DSA_Journey/tree/master/0050-powx-n) |
 | [3524-find-x-value-of-array-i](https://github.com/chayan2006/DSA_Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/chayan2006/DSA_Journey/tree/master/3525-find-x-value-of-array-ii) |
@@ -33,6 +34,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0001-two-sum](https://github.com/chayan2006/DSA_Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chayan2006/DSA_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/chayan2006/DSA_Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/chayan2006/DSA_Journey/tree/master/0013-roman-to-integer) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chayan2006/DSA_Journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
@@ -43,6 +45,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0006-zigzag-conversion](https://github.com/chayan2006/DSA_Journey/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/chayan2006/DSA_Journey/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/chayan2006/DSA_Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/chayan2006/DSA_Journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/chayan2006/DSA_Journey/tree/master/0678-valid-parenthesis-string) |
