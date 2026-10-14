@@ -10,6 +10,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0050-powx-n](https://github.com/chayan2006/DSA_Journey/tree/master/0050-powx-n) |
 | [3524-find-x-value-of-array-i](https://github.com/chayan2006/DSA_Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/chayan2006/DSA_Journey/tree/master/3525-find-x-value-of-array-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/chayan2006/DSA_Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +100,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chayan2006/DSA_Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chayan2006/DSA_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chayan2006/DSA_Journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/chayan2006/DSA_Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Segment Tree
 |  |
 | ------- |
