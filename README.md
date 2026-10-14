@@ -22,6 +22,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | ------- |
 | [0001-two-sum](https://github.com/chayan2006/DSA_Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chayan2006/DSA_Journey/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/chayan2006/DSA_Journey/tree/master/0014-longest-common-prefix) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayan2006/DSA_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chayan2006/DSA_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -46,6 +47,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0008-string-to-integer-atoi](https://github.com/chayan2006/DSA_Journey/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/chayan2006/DSA_Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chayan2006/DSA_Journey/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/chayan2006/DSA_Journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/chayan2006/DSA_Journey/tree/master/0678-valid-parenthesis-string) |
@@ -140,4 +142,8 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chayan2006/DSA_Journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/chayan2006/DSA_Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
