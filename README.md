@@ -149,6 +149,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0015-3sum](https://github.com/chayan2006/DSA_Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chayan2006/DSA_Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chayan2006/DSA_Journey/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/chayan2006/DSA_Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Manacher
 |  |
 | ------- |
@@ -165,4 +166,8 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chayan2006/DSA_Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/chayan2006/DSA_Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
