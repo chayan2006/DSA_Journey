@@ -39,6 +39,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0003-longest-substring-without-repeating-characters](https://github.com/chayan2006/DSA_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/chayan2006/DSA_Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chayan2006/DSA_Journey/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/chayan2006/DSA_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chayan2006/DSA_Journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chayan2006/DSA_Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -52,6 +53,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0012-integer-to-roman](https://github.com/chayan2006/DSA_Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chayan2006/DSA_Journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/chayan2006/DSA_Journey/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/chayan2006/DSA_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/chayan2006/DSA_Journey/tree/master/0678-valid-parenthesis-string) |
@@ -103,6 +105,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/chayan2006/DSA_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0022-generate-parentheses) |
 ## Greedy
 |  |
