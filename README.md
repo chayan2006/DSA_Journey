@@ -23,6 +23,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0001-two-sum](https://github.com/chayan2006/DSA_Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chayan2006/DSA_Journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/chayan2006/DSA_Journey/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/chayan2006/DSA_Journey/tree/master/0015-3sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayan2006/DSA_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chayan2006/DSA_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -127,6 +128,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/chayan2006/DSA_Journey/tree/master/0015-3sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chayan2006/DSA_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -137,6 +139,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chayan2006/DSA_Journey/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/chayan2006/DSA_Journey/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/chayan2006/DSA_Journey/tree/master/0015-3sum) |
 ## Manacher
 |  |
 | ------- |
