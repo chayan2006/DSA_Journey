@@ -16,6 +16,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/chayan2006/DSA_Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/chayan2006/DSA_Journey/tree/master/0050-powx-n) |
 ## Array
 |  |
@@ -176,6 +177,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chayan2006/DSA_Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/chayan2006/DSA_Journey/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/chayan2006/DSA_Journey/tree/master/0024-swap-nodes-in-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
