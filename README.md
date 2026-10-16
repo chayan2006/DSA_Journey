@@ -143,6 +143,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chayan2006/DSA_Journey/tree/master/0023-merge-k-sorted-lists) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chayan2006/DSA_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
@@ -174,4 +175,17 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chayan2006/DSA_Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/chayan2006/DSA_Journey/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chayan2006/DSA_Journey/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chayan2006/DSA_Journey/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chayan2006/DSA_Journey/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
