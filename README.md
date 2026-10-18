@@ -10,6 +10,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0012-integer-to-roman](https://github.com/chayan2006/DSA_Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chayan2006/DSA_Journey/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/chayan2006/DSA_Journey/tree/master/0050-powx-n) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/chayan2006/DSA_Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/chayan2006/DSA_Journey/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/chayan2006/DSA_Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -28,6 +29,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0015-3sum](https://github.com/chayan2006/DSA_Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chayan2006/DSA_Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chayan2006/DSA_Journey/tree/master/0018-4sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayan2006/DSA_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chayan2006/DSA_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -101,6 +103,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0005-longest-palindromic-substring](https://github.com/chayan2006/DSA_Journey/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/chayan2006/DSA_Journey/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayan2006/DSA_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/chayan2006/DSA_Journey/tree/master/3524-find-x-value-of-array-i) |
 ## Matrix
@@ -184,6 +187,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chayan2006/DSA_Journey/tree/master/0023-merge-k-sorted-lists) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Merge Sort
 |  |
 | ------- |
@@ -192,4 +196,32 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chayan2006/DSA_Journey/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
