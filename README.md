@@ -29,6 +29,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0015-3sum](https://github.com/chayan2006/DSA_Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chayan2006/DSA_Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chayan2006/DSA_Journey/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chayan2006/DSA_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayan2006/DSA_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -159,6 +160,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0016-3sum-closest](https://github.com/chayan2006/DSA_Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chayan2006/DSA_Journey/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chayan2006/DSA_Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chayan2006/DSA_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Manacher
 |  |
 | ------- |
