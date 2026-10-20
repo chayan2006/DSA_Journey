@@ -14,6 +14,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [3524-find-x-value-of-array-i](https://github.com/chayan2006/DSA_Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/chayan2006/DSA_Journey/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/chayan2006/DSA_Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/chayan2006/DSA_Journey/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chayan2006/DSA_Journey/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/chayan2006/DSA_Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/chayan2006/DSA_Journey/tree/master/3525-find-x-value-of-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/chayan2006/DSA_Journey/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +149,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0016-3sum-closest](https://github.com/chayan2006/DSA_Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chayan2006/DSA_Journey/tree/master/0018-4sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chayan2006/DSA_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3886-sum-of-sortable-integers](https://github.com/chayan2006/DSA_Journey/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -228,4 +231,8 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/chayan2006/DSA_Journey/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
