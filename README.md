@@ -239,5 +239,6 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 ## Database
 |  |
 | ------- |
+| [1068-product-sales-analysis-i](https://github.com/chayan2006/DSA_Journey/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/chayan2006/DSA_Journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
