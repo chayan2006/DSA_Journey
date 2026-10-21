@@ -236,4 +236,8 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/chayan2006/DSA_Journey/tree/master/3886-sum-of-sortable-integers) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/chayan2006/DSA_Journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
