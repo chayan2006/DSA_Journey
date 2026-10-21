@@ -75,6 +75,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
