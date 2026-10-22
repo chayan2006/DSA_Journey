@@ -42,6 +42,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [3524-find-x-value-of-array-i](https://github.com/chayan2006/DSA_Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/chayan2006/DSA_Journey/tree/master/3525-find-x-value-of-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/chayan2006/DSA_Journey/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/chayan2006/DSA_Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
