@@ -243,6 +243,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0197-rising-temperature](https://github.com/chayan2006/DSA_Journey/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/chayan2006/DSA_Journey/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/chayan2006/DSA_Journey/tree/master/1068-product-sales-analysis-i) |
+| [1280-students-and-examinations](https://github.com/chayan2006/DSA_Journey/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/chayan2006/DSA_Journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/chayan2006/DSA_Journey/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/chayan2006/DSA_Journey/tree/master/1661-average-time-of-process-per-machine) |
