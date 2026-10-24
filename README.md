@@ -11,6 +11,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0013-roman-to-integer](https://github.com/chayan2006/DSA_Journey/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/chayan2006/DSA_Journey/tree/master/0050-powx-n) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/chayan2006/DSA_Journey/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/chayan2006/DSA_Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/chayan2006/DSA_Journey/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/chayan2006/DSA_Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -76,6 +77,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/chayan2006/DSA_Journey/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
