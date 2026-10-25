@@ -253,6 +253,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0577-employee-bonus](https://github.com/chayan2006/DSA_Journey/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/chayan2006/DSA_Journey/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/chayan2006/DSA_Journey/tree/master/0619-biggest-single-number) |
+| [1045-customers-who-bought-all-products](https://github.com/chayan2006/DSA_Journey/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/chayan2006/DSA_Journey/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/chayan2006/DSA_Journey/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/chayan2006/DSA_Journey/tree/master/1075-project-employees-i) |
