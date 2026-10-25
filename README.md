@@ -33,6 +33,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0018-4sum](https://github.com/chayan2006/DSA_Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chayan2006/DSA_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chayan2006/DSA_Journey/tree/master/0027-remove-element) |
+| [1254-number-of-closed-islands](https://github.com/chayan2006/DSA_Journey/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayan2006/DSA_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -118,6 +119,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/chayan2006/DSA_Journey/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayan2006/DSA_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
@@ -216,6 +218,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/chayan2006/DSA_Journey/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -263,4 +266,12 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [1661-average-time-of-process-per-machine](https://github.com/chayan2006/DSA_Journey/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/chayan2006/DSA_Journey/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/chayan2006/DSA_Journey/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/chayan2006/DSA_Journey/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/chayan2006/DSA_Journey/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
