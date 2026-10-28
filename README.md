@@ -45,6 +45,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [3525-find-x-value-of-array-ii](https://github.com/chayan2006/DSA_Journey/tree/master/3525-find-x-value-of-array-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chayan2006/DSA_Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/chayan2006/DSA_Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/chayan2006/DSA_Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/chayan2006/DSA_Journey/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/chayan2006/DSA_Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -117,12 +118,14 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayan2006/DSA_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/chayan2006/DSA_Journey/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/chayan2006/DSA_Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/chayan2006/DSA_Journey/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayan2006/DSA_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chayan2006/DSA_Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/chayan2006/DSA_Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -184,6 +187,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chayan2006/DSA_Journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/chayan2006/DSA_Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/chayan2006/DSA_Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
