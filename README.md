@@ -80,6 +80,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chayan2006/DSA_Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/chayan2006/DSA_Journey/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/chayan2006/DSA_Journey/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/3498-reverse-degree-of-a-string) |
@@ -181,6 +182,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chayan2006/DSA_Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chayan2006/DSA_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chayan2006/DSA_Journey/tree/master/0027-remove-element) |
+| [1768-merge-strings-alternately](https://github.com/chayan2006/DSA_Journey/tree/master/1768-merge-strings-alternately) |
 ## Manacher
 |  |
 | ------- |
