@@ -10,6 +10,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0012-integer-to-roman](https://github.com/chayan2006/DSA_Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chayan2006/DSA_Journey/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/chayan2006/DSA_Journey/tree/master/0050-powx-n) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/chayan2006/DSA_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/chayan2006/DSA_Journey/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/chayan2006/DSA_Journey/tree/master/3524-find-x-value-of-array-i) |
@@ -77,6 +78,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0678-valid-parenthesis-string](https://github.com/chayan2006/DSA_Journey/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chayan2006/DSA_Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/chayan2006/DSA_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chayan2006/DSA_Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -318,4 +320,12 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/chayan2006/DSA_Journey/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chayan2006/DSA_Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/chayan2006/DSA_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/chayan2006/DSA_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
