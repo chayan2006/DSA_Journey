@@ -76,6 +76,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chayan2006/DSA_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0022-generate-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/chayan2006/DSA_Journey/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chayan2006/DSA_Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -187,6 +188,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chayan2006/DSA_Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chayan2006/DSA_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chayan2006/DSA_Journey/tree/master/0027-remove-element) |
+| [0345-reverse-vowels-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/chayan2006/DSA_Journey/tree/master/1768-merge-strings-alternately) |
 ## Manacher
 |  |
