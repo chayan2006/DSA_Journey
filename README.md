@@ -84,6 +84,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0022-generate-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/chayan2006/DSA_Journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/chayan2006/DSA_Journey/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/chayan2006/DSA_Journey/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0856-score-of-parentheses) |
@@ -130,6 +131,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chayan2006/DSA_Journey/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/chayan2006/DSA_Journey/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/chayan2006/DSA_Journey/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayan2006/DSA_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -202,6 +204,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0151-reverse-words-in-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/chayan2006/DSA_Journey/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/chayan2006/DSA_Journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/chayan2006/DSA_Journey/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/chayan2006/DSA_Journey/tree/master/1768-merge-strings-alternately) |
 ## Manacher
