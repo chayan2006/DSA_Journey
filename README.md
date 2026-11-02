@@ -11,6 +11,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0013-roman-to-integer](https://github.com/chayan2006/DSA_Journey/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/chayan2006/DSA_Journey/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chayan2006/DSA_Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chayan2006/DSA_Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/chayan2006/DSA_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/chayan2006/DSA_Journey/tree/master/2409-count-days-spent-together) |
@@ -39,6 +40,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0283-move-zeroes](https://github.com/chayan2006/DSA_Journey/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/chayan2006/DSA_Journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chayan2006/DSA_Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chayan2006/DSA_Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/chayan2006/DSA_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1254-number-of-closed-islands](https://github.com/chayan2006/DSA_Journey/tree/master/1254-number-of-closed-islands) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chayan2006/DSA_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -186,6 +188,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0015-3sum](https://github.com/chayan2006/DSA_Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chayan2006/DSA_Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chayan2006/DSA_Journey/tree/master/0018-4sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chayan2006/DSA_Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/chayan2006/DSA_Journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chayan2006/DSA_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/chayan2006/DSA_Journey/tree/master/3886-sum-of-sortable-integers) |
