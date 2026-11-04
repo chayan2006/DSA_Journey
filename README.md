@@ -15,6 +15,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [1071-greatest-common-divisor-of-strings](https://github.com/chayan2006/DSA_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/chayan2006/DSA_Journey/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chayan2006/DSA_Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/chayan2006/DSA_Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/chayan2006/DSA_Journey/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/chayan2006/DSA_Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -52,6 +53,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chayan2006/DSA_Journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chayan2006/DSA_Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chayan2006/DSA_Journey/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chayan2006/DSA_Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/chayan2006/DSA_Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/chayan2006/DSA_Journey/tree/master/3525-find-x-value-of-array-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chayan2006/DSA_Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -74,6 +76,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chayan2006/DSA_Journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chayan2006/DSA_Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chayan2006/DSA_Journey/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chayan2006/DSA_Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
 | ------- |
@@ -110,6 +113,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chayan2006/DSA_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/chayan2006/DSA_Journey/tree/master/0643-maximum-average-subarray-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chayan2006/DSA_Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +145,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0678-valid-parenthesis-string](https://github.com/chayan2006/DSA_Journey/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayan2006/DSA_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chayan2006/DSA_Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/chayan2006/DSA_Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/chayan2006/DSA_Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/chayan2006/DSA_Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -197,6 +202,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chayan2006/DSA_Journey/tree/master/0023-merge-k-sorted-lists) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chayan2006/DSA_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chayan2006/DSA_Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/chayan2006/DSA_Journey/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Two Pointers
 |  |
