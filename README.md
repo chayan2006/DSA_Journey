@@ -47,6 +47,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chayan2006/DSA_Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chayan2006/DSA_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/chayan2006/DSA_Journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/chayan2006/DSA_Journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/chayan2006/DSA_Journey/tree/master/1882-process-tasks-using-servers) |
@@ -187,6 +188,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/chayan2006/DSA_Journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/chayan2006/DSA_Journey/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
@@ -209,6 +211,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chayan2006/DSA_Journey/tree/master/0023-merge-k-sorted-lists) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/chayan2006/DSA_Journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/chayan2006/DSA_Journey/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chayan2006/DSA_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chayan2006/DSA_Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -391,4 +394,8 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/chayan2006/DSA_Journey/tree/master/0334-increasing-triplet-subsequence) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/chayan2006/DSA_Journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
