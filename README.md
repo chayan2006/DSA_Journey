@@ -44,6 +44,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chayan2006/DSA_Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/chayan2006/DSA_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1254-number-of-closed-islands](https://github.com/chayan2006/DSA_Journey/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/chayan2006/DSA_Journey/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chayan2006/DSA_Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chayan2006/DSA_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -159,6 +160,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/chayan2006/DSA_Journey/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/chayan2006/DSA_Journey/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayan2006/DSA_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chayan2006/DSA_Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/chayan2006/DSA_Journey/tree/master/3665-twisted-mirror-path-count) |
@@ -286,6 +288,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/chayan2006/DSA_Journey/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/chayan2006/DSA_Journey/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chayan2006/DSA_Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -363,12 +366,14 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/chayan2006/DSA_Journey/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/chayan2006/DSA_Journey/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chayan2006/DSA_Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/chayan2006/DSA_Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/chayan2006/DSA_Journey/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/chayan2006/DSA_Journey/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chayan2006/DSA_Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Euclidean Algorithm
 |  |
@@ -398,4 +403,8 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/chayan2006/DSA_Journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/chayan2006/DSA_Journey/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
