@@ -64,6 +64,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chayan2006/DSA_Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/chayan2006/DSA_Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/chayan2006/DSA_Journey/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/chayan2006/DSA_Journey/tree/master/3693-climbing-stairs-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/chayan2006/DSA_Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/chayan2006/DSA_Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/chayan2006/DSA_Journey/tree/master/3886-sum-of-sortable-integers) |
@@ -155,6 +156,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chayan2006/DSA_Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/chayan2006/DSA_Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/chayan2006/DSA_Journey/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/chayan2006/DSA_Journey/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/chayan2006/DSA_Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
