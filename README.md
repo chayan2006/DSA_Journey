@@ -13,6 +13,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chayan2006/DSA_Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chayan2006/DSA_Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/chayan2006/DSA_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chayan2006/DSA_Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/chayan2006/DSA_Journey/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chayan2006/DSA_Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -47,6 +48,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [1267-count-servers-that-communicate](https://github.com/chayan2006/DSA_Journey/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chayan2006/DSA_Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chayan2006/DSA_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chayan2006/DSA_Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/chayan2006/DSA_Journey/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/chayan2006/DSA_Journey/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -151,6 +153,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 | [0022-generate-parentheses](https://github.com/chayan2006/DSA_Journey/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/chayan2006/DSA_Journey/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/chayan2006/DSA_Journey/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chayan2006/DSA_Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chayan2006/DSA_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayan2006/DSA_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chayan2006/DSA_Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -397,6 +400,7 @@ My journey of learning Data Structures and Algorithms in C++, with solutions, no
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chayan2006/DSA_Journey/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chayan2006/DSA_Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
